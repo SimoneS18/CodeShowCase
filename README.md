@@ -1,6 +1,6 @@
 # 🌊 Anchored at Sea
 
-**Anchored at Sea** is a **strategic mobile game** inspired by Clash of Clans, developed in Unity with C#. Players build and manage their own floating fortress, engaging in resource management, naval battles, and base defense.
+**Anchored at Sea**  is a real-time strategy mobile game, developed in Unity with C#. Inspired by Clash of Clans, it blends base-building, naval combat, and resource management into an engaging experience.
 
 ## 🚀 Features
 
@@ -12,10 +12,19 @@
 
 ## 🎮 Development Highlights
 
-- **Unity & C#** – Core gameplay mechanics developed in Unity.  
-- **AI Systems** – Implemented AI-driven enemy behavior for strategic combat.  
-- **Custom Economy System** – Designed a balanced resource management loop.  
-- **Rapid Prototyping** – Iterated on core gameplay loops for smooth player experience.  
+- 🛠️ **Prototyping & Iteration** – Rapidly developed and tested core mechanics.
+- 🤖 **AI Behavior** – Designed enemy AI for strategic PvE encounters.
+- 📊 **System Design** – Built a custom skill tree and crafting system.
+- 📱 **Mobile Optimization** – Ensured smooth performance for mobile platforms.
+
+## 🚀 Key Achievements
+
+- **Rapid Prototyping & Iteration** – Designed and refined core gameplay loops through extensive testing.
+- **Custom AI Systems** – Implemented dynamic enemy AI for engaging naval combat.
+- **Skill Tree & Progression System** – Developed a node-based skill tree that allowed players to unlock new abilities.
+- **Inventory & Crafting System** – Designed a custom inventory filtering system and a blueprint crafting mechanic.
+- **Economy & Resource Management** – Created a balanced system to ensure strategic gameplay.
+- **Mobile Optimization** – Ensured smooth performance on mobile devices through efficient code and asset management.
 
 ## 🔧 Technologies Used
 
@@ -23,10 +32,6 @@
 - **Programming:** C#  
 - **Version Control:** Git  
 - **Project Management:** Jira & Confluence  
-
-## 📌 About the Project
-
-This project started as a passion-driven prototype and evolved into a full-fledged strategy experience. The goal was to **blend base-building mechanics with naval warfare** while optimizing performance for mobile platforms.
 
 ## 📸 Screenshots
 

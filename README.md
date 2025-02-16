@@ -30,4 +30,19 @@ This project started as a passion-driven prototype and evolved into a full-fledg
 
 ## 📸 Screenshots
 
-![TitleOne](D:\Software_Engineering\Portfolio Images\AaS\AaS_1.jpg?raw=true "Optional Title")
+### Base Game Screenshots
+![AaS_1](https://github.com/user-attachments/assets/aff32653-50e3-4c1c-a9a2-c5a74c9e74fc)
+![AaS_3](https://github.com/user-attachments/assets/7ddf8609-13c2-4f5b-93fc-2493dfb4cbb7)
+![AaS_5](https://github.com/user-attachments/assets/4aedd7df-d9d5-4053-ab53-719b4c00d5ec)
+
+### Skill Tree
+![ScreenShot_2](https://github.com/user-attachments/assets/30abe3f9-2e16-4f27-b1c2-357aa33a1133)
+![StartingTree](https://github.com/user-attachments/assets/32e7c256-e0ff-40ae-88f2-aaa7a8fd53d4)
+![SemiCompletedTree](https://github.com/user-attachments/assets/7aaa678f-14fb-471e-9b98-4e20784c64f2)
+
+### Inventory 
+![Inventory](https://github.com/user-attachments/assets/56062a35-b297-4c4d-ac28-9ef25eefd16c)
+![Filtered Inventory](https://github.com/user-attachments/assets/9471e5d4-67d7-4132-9296-f239313a392e)
+
+### Blueprint Crafting
+![ScreenShot_9](https://github.com/user-attachments/assets/4b07f55e-8495-43bd-abf5-246d425da5b9)
